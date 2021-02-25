@@ -1,6 +1,5 @@
 Tabletop robotic clock which plots date and time each minute.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNlrDFbf85Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video: https://www.youtube.com/watch?v=PNlrDFbf85Q
 
 Uses two NEMA 17 stepper motors for the SCARA arm and one 28byj-48 to sweep a magnetic bar behind the drawing board.
 The clock is built around a Creality Melzi 1.1.4 board which runs a custom firmware developed with Arduino.
